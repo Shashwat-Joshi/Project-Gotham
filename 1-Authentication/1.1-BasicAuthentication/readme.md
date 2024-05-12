@@ -13,7 +13,7 @@ The key takeaway from this project was:
 
 Tool used [draw.io](https://www.drawio.com/) to create architecture diagram.
 
-![Architecture][architecture-url]
+![Architecture](https://raw.githubusercontent.com/Shashwat-Joshi/Project-Gotham/main/Authentication/basicauthentication/gotham/BasicAuthCodeArchitectre.jpg)
 
 ## Contributing
 
@@ -22,8 +22,4 @@ to discuss what you would like to change.
 
 ## License
 
-[MIT][license-url]
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[architecture-url]: https://raw.githubusercontent.com/Shashwat-Joshi/Project-Gotham/main/Authentication/basicauthentication/gotham/BasicAuthCodeArchitectre.jpg
-[license-url]: https://raw.githubusercontent.com/Shashwat-Joshi/Project-Gotham/main/LICENSE
+[MIT](https://raw.githubusercontent.com/Shashwat-Joshi/Project-Gotham/main/LICENSE)
