@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.auth</groupId>
-	<artifactId>basicauthentication</artifactId>
+	<artifactId>BasicAuthentication</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>basicauthentication</name>
-	<description>basicauthentication</description>
+	<name>Basic Authentication</name>
+	<description>Implementation of basic auth mechanism using BCrypt</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
